@@ -1,1 +1,3 @@
 #In questo documento sono indicati i file e le cartelle che git non deve tracciare, ovvere quei file che non finiranno mai nella staging area e non verranno mai committati
+#Non includere la chiave:
+key_local_to_remote.txt
